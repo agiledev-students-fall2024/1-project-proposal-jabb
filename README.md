@@ -12,7 +12,7 @@ Marconnect
 * Current meeting software for collaboration are not catered towards the needs of engineers
 * User experience is fragmented, requiring users to juggle different platforms (requiring context switches) rather than having a unified platform with the various functionalities
 * For example, as a CS student who wants to get help from a tutor on my assignment, I have to share my screen and switch in and out of zoom and my IDE. My tutor is also not able to directly interact with my code and must verbally tell me what lines to change.
-* Marconnect would integrate all of these features into one place, where we can collaborate and write code in one shared platform, similar to how you can collaborate on google docs or notion for note taking.
+* Marconnect is a video conferencing platform that would integrate all of these features into one place, where we can conduct video call while collaborating and writing code in one shared platform. Imagine zoom + vscode + google docs.
 
 
 ## For whom?
