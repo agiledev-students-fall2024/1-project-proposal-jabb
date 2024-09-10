@@ -6,6 +6,7 @@ Marconnect
 * Bryant To (bt2181)
 * Brian Zou (bz2193)
 * Andrew Bao (ab10171)
+* Marcus Chau (mc8786)
 
 
 ## What and why?
